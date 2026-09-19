@@ -1,0 +1,3 @@
+﻿sequence,verdict,pixel_fail_metrics,block_fail_metrics,FAIL+SEVERE_area_%,worst_level,max_ratio,max_metric,max_x,max_y,tile_size,tiles_red,tiles_orange,tiles_yellow,tiles_fail,tile_fail_%
+S1_small_alt,FAIL,10,10,0.2419,SEVERE,42.588,block:Y_variance,502,372,40,397,64,17,478,36.8827
+S2_small_mixed,FAIL,10,10,0.2187,SEVERE,37.919,block:Y_variance,882,688,40,364,77,15,456,35.1852
